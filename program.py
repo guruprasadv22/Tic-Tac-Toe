@@ -48,4 +48,4 @@ def selectRandom(lis):
     return rtr
 
 def computerMove():
-    print("Yet to think...")
+    print("Thinking begun")
